@@ -18,4 +18,6 @@ All the GO enrichment analyses were conducted by command line as follow:
 `perl GoEnrichment.pl demo.esophagus.gene.list sheep.background.list`   
 The file "gene_ontology.obo.zip" need to be unziped before used.    
 
-## 03.
+## 03.KEGG_Enrichment     
+The script *clusterProfiler.kegg.r* was used to conduct KEGG enrichment analysis.   
+
