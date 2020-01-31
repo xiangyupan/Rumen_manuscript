@@ -26,3 +26,4 @@ All the GO enrichment analyses were conducted by command line as follow:
 The file "gene_ontology.obo.zip" need to be unziped before used.    
 
 ## 05.Cut_adapt_and_fastqc     
+The script *cutadapt.sh* was used to cut adapter and detect the quality of raw reads from ATAC-seq.   
