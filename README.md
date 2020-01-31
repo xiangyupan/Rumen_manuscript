@@ -3,7 +3,7 @@ Custom scripts for manuscript "Tracing the origin of a new organ by inferring th
 
 ## 00.basic_scripts   
 This part including two scripts:
-The first script *Get_GeneID_from_gff.py* was used to transer gene official name to NCBI Entrez ID by command line: 
+The first script *Get_GeneID_from_gff.py* was used to transer gene official name to NCBI Entrez ID by command line:    
 `python3.5 Get_GeneID_from_gff.py -f GCF_000298735.2_Oar_v4.0_genomic.gff -g demo.esophagus.gene.list -o demo.esophagus.gene.list.ID`   
 The second script *Get_GeneID_SymbolName_from_gff.py* was used to transer NCBI Entrez ID to gene official name.
 
