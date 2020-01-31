@@ -41,4 +41,4 @@ The R script *ATAC-chipseeker-annotation.r* was used to annotate genes in the vi
 ## 09.Consensus_Peak   
 The R script *ATAC.iffbind.r* was used to get consensus peaks among mul-samples by R package "Diffbind".
 
-\*\*Finally: We'd love to hear from you. If you have any questions, please don't be hestitate to contact the author of this manuscript: [pan_xiangyu@nwafu.edu.cn]\*\*
+\*\*Finally: We'd love to hear from you. If you have any questions, please don't be hestitate to contact the author of this manuscript: [pan_xiangyu@nwafu.edu.cn](pan_xiangyu@nwafu.edu.cn)\*\*
