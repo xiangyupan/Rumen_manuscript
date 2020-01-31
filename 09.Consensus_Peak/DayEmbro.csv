@@ -1,0 +1,9 @@
+SampleID,Factor,Replicate,bamReads,Peaks,PeakCaller,Tissue,Condition
+T1-rumen,ATAC,1,T1-rumen_TKD181201054_HWHVVCCXY_L3.uniq20.sort.dedup.noMT.bam,T1-rumen_TKD181201054_HWHVVCCXY_L3_narrow_bedgraph_peaks.narrowPeak,narrow,Rumen,RumenEmbro
+T2-rumen,ATAC,2,T2-rumen_TKD181201056_HWHL5CCXY_L3.uniq20.sort.dedup.noMT.bam,T2-rumen_TKD181201056_HWHL5CCXY_L3_narrow_bedgraph_peaks.narrowPeak,narrow,Rumen,RumenEmbro
+T3-rumen,ATAC,3,T3-rumen_TKD181201059_HWHVVCCXY_L3.uniq20.sort.dedup.noMT.bam,T3-rumen_TKD181201059_HWHVVCCXY_L3_narrow_bedgraph_peaks.narrowPeak,narrow,Rumen,RumenEmbro
+T4-rumen,ATAC,4,sT4-rumen_TKD181201057_HWHL5CCXY_L5.uniq20.sort.dedup.noMT.bam,sT4-rumen_TKD181201057_HWHL5CCXY_L5_narrow_bedgraph_peaks.narrowPeak,narrow,Rumen,RumenEmbro
+T1-eso,ATAC,1,T1-eso_TKD181201036_HWHL5CCXY_L2.uniq20.sort.dedup.noMT.bam,T1-eso_TKD181201036_HWHL5CCXY_L2_narrow_bedgraph_peaks.narrowPeak,narrow,Esophagus,esoEmbro
+T2-eso,ATAC,2,T2-eso_TKD181201051_HWHVVCCXY_L3.uniq20.sort.dedup.noMT.bam,T2-eso_TKD181201051_HWHVVCCXY_L3_narrow_bedgraph_peaks.narrowPeak,narrow,Esophagus,esoEmbro
+T3-eso,ATAC,3,T3-eso_TKD181201052_HWHL5CCXY_L4.uniq20.sort.dedup.noMT.bam,T3-eso_TKD181201052_HWHL5CCXY_L4_narrow_bedgraph_peaks.narrowPeak,narrow,Esophagus,esoEmbro
+T4-eso,ATAC,4,T4-eso_TKD181201053_HWHL5CCXY_L4.uniq20.sort.dedup.noMT.bam,T4-eso_TKD181201053_HWHL5CCXY_L4_narrow_bedgraph_peaks.narrowPeak,narrow,Esophagus,esoEmbro
