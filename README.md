@@ -27,3 +27,13 @@ The file "gene_ontology.obo.zip" need to be unziped before used.
 
 ## 05.Cut_adapt_and_fastqc     
 The script *cutadapt.sh* was used to cut adapter and detect the quality of raw reads from ATAC-seq.   
+
+## 06.Mapping_ATAC-seq  
+The first shell script *bowtie2.index.sh* was used to build index files for mapping clean reads to reference geneome by bowtie2.  
+The second shell script *bowtie_dedup_MT2.sh* was used to map reads, remove duplicated reads and reads mapped to mitochondria and retain the unique mapping reads.    
+
+## 07.Peak_Calling    
+The shell script *macs2.call.peak.sh* was used to call open accessible chromatin regions.  
+
+## 08.Peak_Annotation   
+The R script was used to annotate genes in the vicinty of peaks with the annotation file in gff format.   
