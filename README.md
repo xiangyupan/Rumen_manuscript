@@ -36,4 +36,9 @@ The second shell script *bowtie_dedup_MT2.sh* was used to map reads, remove dupl
 The shell script *macs2.call.peak.sh* was used to call open accessible chromatin regions.  
 
 ## 08.Peak_Annotation   
-The R script was used to annotate genes in the vicinty of peaks with the annotation file in gff format.   
+The R script *ATAC-chipseeker-annotation.r* was used to annotate genes in the vicinty of peaks with the annotation file in gff format.   
+
+## 09.Consensus_Peak   
+The R script *ATAC.iffbind.r* was used to get consensus peaks among mul-samples by R package "Diffbind".
+
+**Finally: We'd love to hear from you. If you have any questions, please don't be hestitate to contact the author of this manuscript: [pan_xiangyu@nwafu.edu.cn]**
