@@ -13,5 +13,6 @@ The second script *02_E50cutoff.ipynb* was used to detect the threshold of E50 i
 The script *GoEnrichment.pl* was used to conduct gene ontology (GO) enrichment analysis.   
 All the GO enrichment analyses were conducted by command line as follow:    
 `perl GoEnrichment.pl demo.esophagus.gene.list sheep.background.list`   
+The file "gene_ontology.obo.zip" need to be unziped before used.    
 
 ## 03.
