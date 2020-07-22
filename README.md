@@ -1,5 +1,5 @@
 # Custom scripts  
-Custom scripts for manuscript "Tracing the origin of a new organ by inferring the genetic basis of rumen evolution"  
+Custom scripts for manuscript "Modes of genetic adaptations underlying functional innovations in the rumen"  
 
 ## 00.basic_scripts   
 This part including two scripts:
